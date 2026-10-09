@@ -2,10 +2,14 @@ CREATIVE AI OPERATIONS HUB
 
 1. Open index.html in a current browser.
 2. Enter the dashboard password supplied separately.
-3. Use the lock button when you finish.
+3. Optionally select Remember this browser to unlock automatically next time.
+4. Use the lock button when you finish.
 
 The dashboard and its browser-saved edits are encrypted. The password is not
 stored in this file. The vault also locks after 15 minutes without activity.
+Remembered access stores a non-exportable key in that browser. From the lock
+screen, use Forget remembered access to remove it. Anyone with access to the
+remembered browser profile can open the dashboard.
 
 IMPORTANT: Export data creates a plaintext JSON backup. Store exported backups
 securely.
